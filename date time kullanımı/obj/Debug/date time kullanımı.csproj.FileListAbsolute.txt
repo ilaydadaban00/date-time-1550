@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\date time kullanımı\date time kullanımı\bin\Debug\date time kullanımı.exe.config
+C:\Users\User\source\repos\date time kullanımı\date time kullanımı\bin\Debug\date time kullanımı.exe
+C:\Users\User\source\repos\date time kullanımı\date time kullanımı\bin\Debug\date time kullanımı.pdb
+C:\Users\User\source\repos\date time kullanımı\date time kullanımı\obj\Debug\date time kullanımı.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\date time kullanımı\date time kullanımı\obj\Debug\date time kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\date time kullanımı\date time kullanımı\obj\Debug\date_time_kullanımı.Form1.resources
+C:\Users\User\source\repos\date time kullanımı\date time kullanımı\obj\Debug\date_time_kullanımı.Properties.Resources.resources
+C:\Users\User\source\repos\date time kullanımı\date time kullanımı\obj\Debug\date time kullanımı.csproj.GenerateResource.cache
+C:\Users\User\source\repos\date time kullanımı\date time kullanımı\obj\Debug\date time kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\date time kullanımı\date time kullanımı\obj\Debug\date time kullanımı.exe
+C:\Users\User\source\repos\date time kullanımı\date time kullanımı\obj\Debug\date time kullanımı.pdb
